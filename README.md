@@ -5,6 +5,12 @@
 Installing a liftbar on the Trident requires modifying the height of the frame, so the idea was to add a hat to give the liftbar more room to move.
 ![Hat](image/Hat.jpg)
 
+The initial motivation and inspiration came from [Tapchanger](https://github.com/viesturz/tapchanger). Many thanks to the author viesturz for open-sourcing this project.
+Liftbar was also his idea, but not in this hat form.
+
+With his another repo [klipper-toolchanger](https://github.com/viesturz/klipper-toolchanger), I made my trident toolchanging.
+
+You can also using [stealthchanger](https://github.com/DraftShift/StealthChanger) with this design.
 
 ## Features
 
@@ -34,7 +40,6 @@ Commens:
 - 10mm GT2 belt 
 - m3 bolts, heatset inserts, nuts
 - m5 bolts, T-nuts
-
 
 ## Images
 ![Overview](image/Hat%20overview.jpg)
